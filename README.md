@@ -1,5 +1,5 @@
-# myWebsites
-Examples how i design websites
+# Portfolio example
+a little preview of how I design websites
 
 ![](images/websiteA.png)
 
